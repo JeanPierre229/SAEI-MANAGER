@@ -113,7 +113,7 @@
                     <div class="col">
                         <h3>OPTIMISEZ LA GESTION DE VOS PROGRAMME.</h3>
                         <p class="my-4">
-                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Deleniti, fugiat laboriosam. Unde officiis autem dolor.
+                            La gestion optimisée des programmes implique l'utilisation d'outils et de méthodes efficaces pour planifier, suivre, et évaluer les activités et ressources des programmes afin de maximiser leur impact et assurer la réalisation des objectifs fixés.
                         </p>
                         <p>
                             <i class="fa fa-caret-right text-orange"></i>
@@ -147,7 +147,7 @@
                     <div class="col">
                         <h3> GERER EFFICACEMENT VOTRE COHORTES</h3>
                         <p class="my-4">
-                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Deleniti, fugiat laboriosam. Unde officiis autem dolor.
+                            La gestion optimisée des cohortes consiste à organiser et suivre efficacement les groupes d'entrepreneurs afin de favoriser les interactions, maximiser l'apprentissage collectif, et garantir un accompagnement personnalisé tout au long de leur parcours entrepreneurial.
                         </p>
                         <p>
                             <i class="fa fa-caret-right text-orange"></i>
@@ -181,7 +181,7 @@
                     <div class="col">
                         <h3>FACILITER LA GESTION DES COACHS</h3>
                         <p class="my-4">
-                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Deleniti, fugiat laboriosam. Unde officiis autem dolor.
+                            La gestion des coachs implique l'organisation et le suivi des activités des coachs pour assurer un mentorat efficace et personnalisé aux entrepreneurs.
                         </p>
                         <p>
                             <i class="fa fa-caret-right text-orange"></i>
@@ -214,7 +214,7 @@
                     <div class="col">
                         <h3 class="text-uppercase">Nos modules d'apprentissage</h3>
                         <p class="my-4">
-                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Deleniti, fugiat laboriosam. Unde officiis autem dolor.
+                            La gestion du module d'apprentissage consiste à organiser et suivre les ressources et activités pédagogiques pour assurer un apprentissage structuré et efficace des utilisateurs.
                         </p>
                         <p>
                             <i class="fa fa-caret-right text-orange"></i>
@@ -249,13 +249,13 @@
         <section class="my-5">
             <div class="row animated-text-y">
                 <div class="col text-center">
-                    <h2 class="">LOREM IPSUM DOOR SIT <span class="py-2 pe-5">AMET.</span></h2>
+                    <h2 class="">SOLUTIONS PROPOSEES SUR SAEI-MANAGER</h2>
                 </div>
             </div>
             <div class="row my-3 animated-text-y">
                 <div class="col text-center">
                     <p class="w-50 mx-auto">
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iure possimus quas saepe quos ratione itaque rerum consequuntur aliquid magnam obcaecati.
+                        Les solutions proposées sont spécifiquement conçues pour répondre aux besoins des coachs, des SAEI, et des entrepreneurs, en optimisant leur gestion, leur collaboration et leur développement.
                     </p>
                 </div>
             </div>

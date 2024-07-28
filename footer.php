@@ -1,10 +1,8 @@
 <footer class="mt-5 bg-dark text-light">
     <div class="row  p-5">
         <div class="col">
-            <h2>
-                <span class="text-green">SAEI</span>-<span class="text-orange">MANAGER</span>
-            </h2>
-            <p class="ms-2">
+            <img src="assets/images/logo/logo-smw.png" alt="" class="img w-75 mb-2">
+            <p class="me-5 text-center">
                 Nous créons la nouvelle <br/> expérience de travail
             </p>
         </div>
